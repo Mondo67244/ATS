@@ -5,9 +5,12 @@ L'application N*1 pour dénoncer les scammers, n'aie pas peur ! expose les tous 
 ## Aperçu du projet
 
 Cette application permet aux utilisateurs de : 
-● Signaler les escrocs et les activités frauduleuses 
-● Parcourir les escroqueries signalées par catégories 
-● Rechercher des escrocs ou des types d'escroqueries spécifiques 
+● Signaler les escrocs et les activités frauduleuses
+
+● Parcourir les escroqueries signalées par catégories
+
+● Rechercher des escrocs ou des types d'escroqueries spécifiques
+
 ● Accéder aux ressources de protection contre la fraude
 
 ### Installation
