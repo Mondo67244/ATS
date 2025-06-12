@@ -1,6 +1,7 @@
 # ATS - Affiche-ton-scammer
 
 L'application N*1 pour dénoncer les scammers, n'aie pas peur ! expose les tous tout en restant dans l'anonymat. Aide nous à accroître notre liste d'escrocs afin de sensibiliser plusieurs !
+- Télécharge ici : https://github.com/Mondo67244/ATS/releases
 
 ## Aperçu du projet
 
